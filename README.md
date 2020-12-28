@@ -1,5 +1,5 @@
 # Piano for Toddlers 
-# by Thy H. Nguyen
+# written by Thy H. Nguyen
 
 hello-name, a class example for learning to use Visual Studio 2019
 
